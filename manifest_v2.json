@@ -53,6 +53,14 @@
     "xmrw5xring": {
       "version": "1.0.0",
       "file_name": "downloads/rw5『如初』-相册-xmrw5xring.bin"
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/11『如初』-相册-xmb11nfc.bin"
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/11『如初』-相册-xmb11.bin"
     }
   },
   "ext": {
